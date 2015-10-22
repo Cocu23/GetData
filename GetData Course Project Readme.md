@@ -5,8 +5,7 @@ This repo contains
 * the codebook explaining the variables, data sets and the way this project was handled.
 
 The code was created using RStudio Version 0.99.486 on OS X 10.10.5. 
-It contains 5 steps as the Cousera Assignment required it.
-The code includes several comments explaining each steps and can be directly launched in RStudio and R by importing the code script.
+It contains 5 steps as the Cousera Assignment required it. The code includes several comments explaining each steps and can be directly launched in RStudio and R by importing the code script.
 
 The code takes for granted all the data is present in the same folder, un-compressed and without names altered.
 
